@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Title.unity
+    guid: 337cd0e6f1fb5a14d87e5a3f21750c8f
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Me.unity
+    guid: 1322958172381b949983ed367a0b28c3
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Legacy Gone.unity
+    guid: e4ce47cc8a8c7db49ab9b371b2b92906
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Ringbuffer - Title.unity
+    guid: bf7e59fae166610408ba5ceb9b27c7be
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - RingBuffer - Sample.unity
+    guid: e78e48f320b41a04d88d3daf5d23ad92
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - RingBuffer - Bullets.unity
+    guid: a6ce9def7d3c3fa4ebfc6d841c46e082
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - VertexOrdered - Intro.unity
+    guid: b158b84f8e9feb646b358354f329e68b
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - VertexOrdered - Edge.unity
+    guid: 08d9c15b277f7134b82f26e2f7c0073a
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - VertexOrdered - Sample.unity
+    guid: 8ee48f4150eb0d44d9457530bfc6b851
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - External Forces - Intro.unity
+    guid: 6cd14d6ffb3deac49be8db607ef0c7bb
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - External Forces - Shape.unity
+    guid: 1e8ad9474fe3eac41a6e6db2f0174b2e
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - External Forces - Shape Radius.unity
+    guid: dd4ee4872d755624d99ca45f92fc7ee6
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - External Forces - Gravity Field.unity
+    guid: b6f920475eadf074aaeabf00a0be7d1f
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - External Forces - Sample.unity
+    guid: 5ef71a4eeeb0de84aa16db04c058a1ae
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - TextureModule.unity
+    guid: f8fee0beac034694a8b420d2c82f912e
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Misc.unity
+    guid: 2320176a7e14cb343b1658487ab1a381
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - LineRenderer.unity
+    guid: 529ec37eda0fe46f79e44622584ab315
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - UIParticles.unity
+    guid: e10a128feddc640a9a35240b7dab3371
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - automaticCullingEnabled.unity
+    guid: 515943f0b1a947040b3dea05a70da59a
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Custom Culling.unity
+    guid: 3b342bebc8f45aa48abe3e33eaef997c
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Custom Culling Summary.unity
+    guid: af0c8cefe9ad52a4e9619a0da498f7bb
+  - enabled: 1
+    path: Assets/Unite Asia/Templates/SlideTemplate-Thankyou.unity
+    guid: 413c7ec1fc51c2846b897aa741a05edb
+  - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Job System - SampleScene.unity
+    guid: 8b6d03d2b97d01b4db8cc4cc3ff545df
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Intro.unity
+    guid: b553c1ef935b641829cfd907048bd9aa
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Title.unity
+    guid: 660fbda52928f4400a8fb289294c1a69
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/About Me.unity
+    guid: ca851e0a0a9d2438c8ddef6418446ec8
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Big Section.unity
+    guid: e9ca15c20f03442f1a88f4976315c238
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Big Section (black).unity
+    guid: 621000204fce34456aae49fa2408856b
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Small Section.unity
+    guid: c387bc4a7c69843708e9cd7a9e388d17
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Small Section (black).unity
+    guid: 388bdcb976a844ba19cffa0527adeaac
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Content.unity
+    guid: 72e0b97e4f7d84b478515c57617475ff
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Content Image.unity
+    guid: 3180300f34c6d4b75983499ccb11ead5
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Empty.unity
+    guid: 0b47bb53683b54e4c89324dfe68326e9
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Last.unity
+    guid: fc773ea8a12c3461489522b384ef8dfc
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/LogoCentral/Slide-LogoCentral.unity
+    guid: 19257c4d45b394bc0b076ab495cd8257
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/DeepBlueBG(Blank)/Slide-DeepBlueBG.unity
+    guid: bc9f66b7a3f564f0ea8d0719ba359b4c
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/HeaderCentral/Slide-HeaderCentral.unity
+    guid: 9211f6193b28e46efbdb101263915b26
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/DataNumberCentral/Slide-DataNumberCentral.unity
+    guid: 556090e746aa84b43a70c21cef0765be
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/DataNumbersSideBySide/Slide-DataNumbersSideBySide.unity
+    guid: b5d64a5b6cdbc4d4e8f65f9614f26bb4
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/BulletPointTextLeftAlignment/Slide-BulletPointTextLeftAlignment.unity
+    guid: 26f45122a5d044eb790f20712d10e7af
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/MeshObjectInFrontOfSlide/Slide-MeshObjectInFrontOfSlide.unity
+    guid: a411f5f13be3a4cf3bfa051e5cf82022
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/HeaderCentralWithParagraph/Slide-HeaderCentralWithParagraph.unity
+    guid: 044793db27449469d8786db0e0406128
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/ParagraphsSideBySide/Slide-ParagraphsSideBySide.unity
+    guid: fb8e5e762a3024fb7abc99d1a6062970
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/PartnerSlide/Slide-PartnerSlide.unity
+    guid: f96d2ad34d0594ba29686622a8e789b2
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/RenderTextureInSlide/Slide-RenderTextureInSlide.unity
+    guid: 4350ff9038d5649a6b970ecb6a528ddd
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/ServicesIn3Column/Slide-ServicesIn3Columns.unity
+    guid: b54e1dadfcedf4e48af2de6b86ea5c89
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/VerticalAboveServicesAnd3Rows/Slide-ServicesSlide.unity
+    guid: fd450e0b0c7b04bbe8a0f8c2076b0fe8
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/HalfContentLeft/Slide-HalfContentLeft.unity
+    guid: 772c063127809477a8ffc21736aa0310
+  - enabled: 1
+    path: Assets/Presentation-master/Unity/Template Slides/Dark Theme/UnityColorBG/Slide-UnityColorBG.unity
+    guid: 9fe8fa2d5b60e448da99dbebbba92c2e
+  m_configObjects: {}

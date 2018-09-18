@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 0f9488c2f5cad1943a3f2b08953f2fd4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Detonator
+    100002: //RootNode
+    100004: NurbsPath
+    100006: NurbsPath_001
+    100008: NurbsPath_002
+    100010: Plunger
+    400000: Detonator
+    400002: //RootNode
+    400004: NurbsPath
+    400006: NurbsPath_001
+    400008: NurbsPath_002
+    400010: Plunger
+    2100000: Handle
+    2100002: Shaft
+    2100004: Wood
+    2100006: Metal
+    2100008: Plunger_Hole
+    2100010: Fuse_Wire
+    2300000: Detonator
+    2300002: NurbsPath
+    2300004: NurbsPath_001
+    2300006: NurbsPath_002
+    2300008: Plunger
+    3300000: Detonator
+    3300002: NurbsPath
+    3300004: NurbsPath_001
+    3300006: NurbsPath_002
+    3300008: Plunger
+    4300000: Plunger
+    4300002: Detonator
+    4300004: NurbsPath_002
+    4300006: NurbsPath_001
+    4300008: NurbsPath
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
