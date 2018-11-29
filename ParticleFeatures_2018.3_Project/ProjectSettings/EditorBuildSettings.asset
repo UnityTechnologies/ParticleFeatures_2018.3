@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Unite Asia/Slides/Slide - Title.unity
     guid: 337cd0e6f1fb5a14d87e5a3f21750c8f
   - enabled: 1
-    path: Assets/Unite Asia/Slides/Slide - Me.unity
-    guid: 1322958172381b949983ed367a0b28c3
-  - enabled: 1
     path: Assets/Unite Asia/Slides/Slide - Legacy Gone.unity
     guid: e4ce47cc8a8c7db49ab9b371b2b92906
   - enabled: 1
@@ -69,11 +66,11 @@ EditorBuildSettings:
     path: Assets/Unite Asia/Slides/Slide - Custom Culling Summary.unity
     guid: af0c8cefe9ad52a4e9619a0da498f7bb
   - enabled: 1
+    path: Assets/Unite Asia/Slides/Slide - Me.unity
+    guid: 1322958172381b949983ed367a0b28c3
+  - enabled: 1
     path: Assets/Unite Asia/Templates/SlideTemplate-Thankyou.unity
     guid: 413c7ec1fc51c2846b897aa741a05edb
-  - enabled: 1
-    path: Assets/Unite Asia/Slides/Slide - Job System - SampleScene.unity
-    guid: 8b6d03d2b97d01b4db8cc4cc3ff545df
   - enabled: 1
     path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Intro.unity
     guid: b553c1ef935b641829cfd907048bd9aa
@@ -81,25 +78,31 @@ EditorBuildSettings:
     path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Title.unity
     guid: 660fbda52928f4400a8fb289294c1a69
   - enabled: 1
-    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/About Me.unity
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/About
+      Me.unity
     guid: ca851e0a0a9d2438c8ddef6418446ec8
   - enabled: 1
-    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Big Section.unity
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Big
+      Section.unity
     guid: e9ca15c20f03442f1a88f4976315c238
   - enabled: 1
-    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Big Section (black).unity
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Big
+      Section (black).unity
     guid: 621000204fce34456aae49fa2408856b
   - enabled: 1
-    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Small Section.unity
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Small
+      Section.unity
     guid: c387bc4a7c69843708e9cd7a9e388d17
   - enabled: 1
-    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Small Section (black).unity
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Small
+      Section (black).unity
     guid: 388bdcb976a844ba19cffa0527adeaac
   - enabled: 1
     path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Content.unity
     guid: 72e0b97e4f7d84b478515c57617475ff
   - enabled: 1
-    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Content Image.unity
+    path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Content
+      Image.unity
     guid: 3180300f34c6d4b75983499ccb11ead5
   - enabled: 1
     path: Assets/Presentation-master/Unity/Template Slides/Unite Austin/Scenes/Empty.unity

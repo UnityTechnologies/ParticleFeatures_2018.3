@@ -19,10 +19,6 @@ MonoBehaviour:
     scenePath: 
   - Visible: 1
     StartInPlayMode: 1
-    Scene: {fileID: 102900000, guid: 1322958172381b949983ed367a0b28c3, type: 3}
-    scenePath: 
-  - Visible: 1
-    StartInPlayMode: 1
     Scene: {fileID: 102900000, guid: e4ce47cc8a8c7db49ab9b371b2b92906, type: 3}
     scenePath: 
   - Visible: 1
@@ -96,17 +92,5 @@ MonoBehaviour:
   - Visible: 1
     StartInPlayMode: 1
     Scene: {fileID: 102900000, guid: af0c8cefe9ad52a4e9619a0da498f7bb, type: 3}
-    scenePath: 
-  - Visible: 1
-    StartInPlayMode: 1
-    Scene: {fileID: 0}
-    scenePath: 
-  - Visible: 1
-    StartInPlayMode: 1
-    Scene: {fileID: 0}
-    scenePath: 
-  - Visible: 1
-    StartInPlayMode: 1
-    Scene: {fileID: 102900000, guid: 413c7ec1fc51c2846b897aa741a05edb, type: 3}
     scenePath: 
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}

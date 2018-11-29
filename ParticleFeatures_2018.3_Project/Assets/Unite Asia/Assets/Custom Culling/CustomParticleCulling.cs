@@ -11,7 +11,7 @@ public class CustomParticleCulling : MonoBehaviour
     void OnEnable()
     {
         // Do we need custom culling?
-        if (target.automaticCullingEnabled)
+        if (target.proceduralSimulationSupported)
         {
             Debug.Log(name + " does not need custom culling");
             enabled = false;
